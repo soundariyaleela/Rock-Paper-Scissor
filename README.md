@@ -1,5 +1,5 @@
 # Rock-Paper-Scissor
-Interactive Web Game- Rock Paper Scissor
+
 ---
 
 ## 🎮 Rock Paper Scissors – Interactive Web Game
