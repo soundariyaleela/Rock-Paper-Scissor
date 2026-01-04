@@ -1,8 +1,5 @@
 # Rock-Paper-Scissor
 Interactive Web Game- Rock Paper Scissor
-
-Here’s a clean, professional **GitHub repository description** you can paste directly.
-
 ---
 
 ## 🎮 Rock Paper Scissors – Interactive Web Game
@@ -26,6 +23,7 @@ A stylish and responsive Rock-Paper-Scissors web game built using **HTML, CSS, a
 * CSS3 (Flexbox, gradients, Google Fonts)
 * JavaScript (DOM manipulation, game logic)
 
+---
 ### Author
 
 Soundariya Leela M
